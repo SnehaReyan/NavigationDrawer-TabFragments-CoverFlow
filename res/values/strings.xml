@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SpotSoonTest</string>
+    <string name="blank_string" />
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title1">Chain Smoker new album 2016</string>
+
+    <string-array name="nav_bar_items">
+        <item>Home</item>
+        <item>Video</item>
+        <item>Mile Stone</item>
+        <item>About Us</item>
+    </string-array>
+</resources>
